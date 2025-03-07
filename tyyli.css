@@ -131,7 +131,7 @@ ul {
     text-align: center;
     list-style: none;
 }
-#aukioloajat { text-align: left;
+#aukioloajat { text-align: center;
 }
 
 iframe {
@@ -166,10 +166,6 @@ iframe {
 @media only screen and (min-width:683px) {
     .flex_container2 {display: flex;}
     .flex_item2 {flex: 1;}
-/*body {margin-left: 20%;
-      margin-right: 20%;}*/
-    
-
     
 }
 
